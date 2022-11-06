@@ -1,0 +1,15 @@
+.event-image {
+  height: 150px;
+  width: 250px;
+}
+.event-name {
+  font-size: 18px;
+}
+.event-location {
+  font-size: 12px;
+}
+.event-button {
+  background-color: #64748b;
+  border: none;
+  border-radius: 10px;
+}
